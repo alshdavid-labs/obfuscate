@@ -1,1 +1,1 @@
-module github.com/goorbit/obfuscate
+module github.com/qkgo/obfuscate
